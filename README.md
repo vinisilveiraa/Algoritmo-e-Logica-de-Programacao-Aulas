@@ -1,3 +1,7 @@
+
+MAIS AULAS SERÃO ADICIONADAS COM O TEMPO
+Cada pasta guarda o conteúdo da semana com a data
+
 - Youtube, Playlist e Canal
 
 	Playlist
