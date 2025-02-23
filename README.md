@@ -1,6 +1,6 @@
 
 MAIS AULAS SERÃO ADICIONADAS COM O TEMPO
-Cada pasta guarda o conteúdo da semana com a data
+Cada pasta guarda o conteúdo da semana com a data, video gravado, txt com links e material usado
 
 - Youtube, Playlist e Canal
 
