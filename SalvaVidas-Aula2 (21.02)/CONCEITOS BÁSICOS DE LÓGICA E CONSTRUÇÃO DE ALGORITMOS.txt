@@ -1,0 +1,36 @@
+	Oque e um Algoritmo?
+
+Sequência de passos para resolver um problema, todos ja vimos um algoritmo;
+ex: receita de bolo, tutorial no youtube, instruções pra chegar a algum lugar
+
+conjuntos de instruções organizadas de forma lógica para resolver problemas ou executar tarefas
+
+
+	IMPORTANCIA DELE (na computaçao e dia a dia)
+
+computacao
+
+Eficiência e Otimização - ajudam a resolver problemas de maneira rapida e eficiente
+
+Automação de Processos - criação de programas que realizam tarefas
+
+dia a dia
+
+Tomada de Decisões - Desde escolher a melhor rota no GPS até decidir qual filme assistir baseado em recomendações, usamos algoritmos inconscientemente
+
+Compras Online - Sistemas de recomendação utilizam algoritmos para sugerir produtos baseados
+
+
+	Oq e PseudoCódigo
+
+Meio termo entre a nossa lingua e a de programação 
+Pode ser Executado
+Util para aprender a logica da programacao
+
+	Como desenvolver um Algoritimo em PseudoCodigo
+
+Identificar o problema 
+Considerar dados fornecidos (entrada)
+Identificar o resultado desejado (saida)
+Entender todos os processos que envolvem esse caminho
+
