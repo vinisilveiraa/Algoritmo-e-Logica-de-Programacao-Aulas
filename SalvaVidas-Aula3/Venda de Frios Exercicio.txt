@@ -1,0 +1,24 @@
+Oi gente, meu nome e Vinicius e hoje vou apresentar o trabalho salva vidas do dia 21/02 que foi passado pelo professor Tiago na Fatec Jau
+
+Foi pedido que os alunos fizessem um video com legendas explicando o exercício passado em aula, suas etapas de desenvolvimento e seu funcionamento
+
+Atualmente estamos prendendo sobre o básico da logica de programação, usando pseudocódigo no VISUALG, no ultimo video que postei dia 9 foi falado sobre esse assunto então vale a pena dar uma checada la
+
+Então, agora dentro do visualg esse e o código, vou mostrar o funcionamento dele primeiro
+
+sempre começando com as variáveis, eu coloquei tudo que pediu no enunciado, primeiro os calores, a comissão, a quantia pra poder calcular tudo isso e a soma do total de vendas e comissão, terminando essa area.
+
+Abaixo, começa o real código, primeiro a gente considera a quantia de cada produto em kg pra poder calcular o resto
+
+o código faz a pergunta e depois salva a informação dada com o Leia
+
+descendo mais, calculamos o valor baseado na quantia x preço 
+e a comissão que e o valor dividido pela porcentagem
+
+e depois somamos tudo para conseguir o total q tbm foi pedido 
+
+por fim temos os resultados de cada produto vendido e a soma das vendas e da comissão 
+
+
+
+

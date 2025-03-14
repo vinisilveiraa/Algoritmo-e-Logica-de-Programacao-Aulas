@@ -1,0 +1,23 @@
+Oi, meu nome é vinicius, hoje venho apresentar o quarto trabalho salva vidas do dia 07/03 passado pelo professor tiago na fatec jahu
+
+Nessa aula em especifico, aprendemos sobre a Estrutura de decisao SE e OPERADORES LOGICOS
+
+Com isso, foi pedido que os alunos demonstrassem o funcionamento e explicassem as fases de desenvolvimento de um dos exercicios repassados em aula
+
+Eu vou ta usando o terceiro exercício para apresentar esse trabalho, ele fala a respeito de uma financeira, que gostaria de conceder empréstimos seguindo alguns critérios listados no enunciado 
+
+Entao, dentro do visualg
+
+Primeiro começamos com as variáveis, aqui definimos a renda, parcela maxima, valor da parcela, seguro e a idade do cliente
+
+Abaixo a gente pede as informações necessárias para o cliente, como sua renda, idade e valor desejado
+usando essas informações eliminamos algumas coisas como pessoas abaixo de 18 anos ou que não cumprem a renda minima definida no enuciado]
+
+Caso passem dessa parte é calculado os valores definidos, sendo a renda maxima igual a renda multiplicada pela porcentagem
+
+Aqui mais uma parte eliminatória, se a parcela maxima exceder o limite então o código vai dar um aviso e terminar 
+
+embaixo disso temos o calculo do seguro pela idade e parcela
+
+e depois somamos ambos a parcela e o seguro.
+Por ultimo o algoritmo mostra os resultados, dizendo que o empréstimo foi aprovado

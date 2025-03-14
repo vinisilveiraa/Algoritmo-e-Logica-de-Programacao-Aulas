@@ -1,3 +1,6 @@
+Ola, pessoal. Meu nome e Vinicius e hoje apresentarei o primeiro video de uma serie semanal de trabalhos salva-vidas propostas pelo professor Tiago na FATEC Jahu
+Foi pedido que os alunos fizessem um video
+
 	Oque e um Algoritmo?
 
 Sequência de passos para resolver um problema, todos ja vimos um algoritmo;
@@ -25,7 +28,7 @@ Compras Online - Sistemas de recomendação utilizam algoritmos para sugerir pro
 
 Meio termo entre a nossa lingua e a de programação 
 Pode ser Executado
-Util para aprender a logica da programacao
+Util para aprender a logica da programação
 
 	Como desenvolver um Algoritimo em PseudoCodigo
 
