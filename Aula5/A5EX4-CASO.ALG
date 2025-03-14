@@ -30,7 +30,7 @@ Inicio
       Leia(idade)
 
       Se (idade < 18 ) então
-         Escreval("Você não tem idade o suficiente")
+         Escreval("Você não tem idade suficiente")
 Fimalgoritmo
 Fimse
 
@@ -49,20 +49,20 @@ Se (renda >= 2500) Então
    parcelaMax <- (renda/100) * 25
 Fimse
 
-Se (idade > 18) E (idade < 29) Então
-   seguro <- parcelaMax * 0.05
+Se (idade >= 18) E (idade < 29) Então
+   seguro <- (parcelaMax/100) * 5
 Fimse
 
-Se (idade >= 30) E (idade <= 44) Então
-   seguro <- parcelaMax * 0.07
+Se (idade > 30) E (idade < 44) Então
+   seguro <- (parcelaMax/100) * 7
 Fimse
 
-Se (idade >= 45) E (idade <= 60) Então
-   seguro <- parcelaMax * 0.10
+Se (idade > 45) E (idade < 60) Então
+   seguro <- (parcelaMax/100) * 10
 Fimse
 
 Se (idade >= 60) Então
-   seguro <- parcelaMax * 0.15
+   seguro <- (parcelaMax/100) * 15
 Fimse
 
 Escreval("")
