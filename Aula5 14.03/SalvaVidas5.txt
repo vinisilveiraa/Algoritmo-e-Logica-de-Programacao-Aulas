@@ -1,0 +1,14 @@
+Oi, meu nome e Vinicius e vim apresentar oq aprendi na aula do dia 14/03 com o professor tiago na materia de algoritmo e logica de programacao na fatec jahu 
+
+a gente tem estudado visualg como nossos primeiros passos na logica de programcao e nessa aula em especifico aprendemos sobre a estrutura de decisao ESCOLHA CASO e fizemos varios exercicios com oq aprendemos
+
+entao, eu escolhi o 4 exercicio pra apresentar aqui que eu acho que funciona melhor, ele tem um menu e consegue calcular emprestimos
+
+primeiro começamos com a variáveis e aqui a gente usa o ESCOLHA CASO para criar um menu por números, cada numero seria uma parte do código e te diz oq cada um faz, o primeiro são os requisitos, o segundo o calculo do empréstimo e o terceiro algumas informações de contato 
+
+dependendo do numero digitado vc vai pra uma parte que trabalha de maneira independente 
+
+ex apertei 1, apareceu os requisitos
+apertei 2, aparece o calculo, o código foi copiado de um exercício na aula anterior, ele ja foi explicado no ultimo post aqui, ele faz a conta da parcela max com base na renda e o seguro com base no valor da parcela, depois soma tudo e mostra o resultado
+
+a terceira opção mostra os contatos da empresa e tal
