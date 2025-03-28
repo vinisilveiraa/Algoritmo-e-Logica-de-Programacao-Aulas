@@ -1,0 +1,17 @@
+oi, meu nome e vinicius e vou apresentar o trabalho salva vidas da 6 aula q foi feita dia 27/03 de algoritmos e logica de programação com o professor tiago na fatec jahu
+
+então, nessa aula a gente aprendeu sobre a ESTRUTURA DE REPETICAO PARA,
+nessa estrutura da pra repetir um bloco de comandos varias vezes e a gente define quantas são, precisa ter em mente quantas vezes vc quer q seja repetida 
+
+pra usar ela vc primeiro define uma variável que vai aumentando a cada repetição e usa o PARA i de X ate Y FACA, sendo 2 onde ela começa e o 10 o numero máximo de repetição 
+
+nesse exercício q eu escolhi pra mostrar aqui eu usei a estrutura para criar um algoritmo que defini o numero maior/menor de acordo com o que o usuario digitou
+
+primeiro começo colocando um escreval pedindo pra que o usuário digite 10 números, como dito antes precisa saber quantas vezes exatamente a gente quer que repita, aqui ta 10
+dps o código le oq foi digitado como um numero e embaixo e atribuído a esse numero ambas as variáveis de maior/menor 
+
+e aqui que entra o para, ele vai repetir do 2 ao 10 (2 pq ja pegamos 1 dos numeros) esse bloco aqui, que pede o proximo numero e coloca ele em um SE, se o numero digitado for maior que o numero anterior, entao a variavel NUM vai ser atualizada para o numero digitado, agora maior q o de antes.
+
+depois e a mesma coisa, sq com o numero menor. se o numero for menor a variavel vai ser atualizada pelo digitado
+
+depois dos 10 numeros vai ser mostrado qual o maior/menor deles
