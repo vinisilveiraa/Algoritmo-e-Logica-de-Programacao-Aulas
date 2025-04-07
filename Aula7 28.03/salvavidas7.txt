@@ -3,12 +3,16 @@ Aula 7 - Estrutura de Repetição Repita - Feito Dia 28/04
 Oi, meu nome e Vinicius e vim apresentar oq aprendi na aula 28/04 na matéria de ALG e LOG com o professor Tiago na fatec jahu.
 
 Bem, nessa aula aprendemos sobre a estrutura de repetição Repita. 
-Essa estrutura consegue repetir um bloco de comando ate que uma condição seja atendida. 
+Essa estrutura consegue repetir um bloco de comando ate que uma condição seja atendida. Teve uma serie de exercícios e eu escolhi este aqui pra dar de exemplo.
 
-Nesse exemplo que eu peguei eu uso o REPITA para fazer um joguinho e adivinhação e como um menuzinho no final.
+Ele pede para fazermos um jogo q o usuario adivinha um numero aleatorio de 0 a 10, contanto o numero de tentativas e dar uma dica ao usuario se e maior ou menor. 
 
-Dentro do repita, primeiro um numero de 1a10 e sorteado, usando RANDI(10).
-Entao o usuário vai digitar um numero aleatório.
+Dentro do 1 repita, primeiro um numero de 0 a 10 e sorteado, usando RANDI(10).
+E resetando as tentativas a 0. Esse e usado pra fazer o menu no final.
 
-Caso o numero seja menor q 0 ou maior q 10 tem uma linha pra checar isso, repetindo a primeira linha. 
-E então, 
+Ja no segundo repita o jogo começa, o programa pede pra digitar um numero.
+Caso o numero seja menor q 0 ou maior q 10 tem uma linha pra checar isso, anulando a tentativa.
+
+E então, abaixo ele checa se a resposta for maior ou menor que o sorteado, dando uma dica pro usuário e parabenizando se acertar.
+
+O Segundo repita termina nesse Ate, ele checa se a resposta for correta. Se for ele manda esse menuzinho, onde o usuário escolhe tentar denovo ou não, onde ele usa o primeiro repita pra checar.
